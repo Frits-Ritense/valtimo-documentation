@@ -34,3 +34,7 @@ with a `boolean` value.
 * **`caseSearchFields`**
 
   If enabled, a non-functional demo version of case search fields will replace the search sidebar on the case list page.
+
+* **`caseListColumn`**
+
+  If enabled, the column list tab will be shown on the case management page.
